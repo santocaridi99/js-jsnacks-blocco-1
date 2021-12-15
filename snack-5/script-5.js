@@ -11,6 +11,9 @@ do{
     numeri.push(numero);
     //fare la somma dei numeri
     sum+=numero;
+    console.log(sum);
 }while(sum<50)
-console.log(sum);
+if(sum>=50){
+    console.log('Attenzione numero maggiore o uguale a 50')
+}
 //stampare la somma che si fermerà fino a quando un numero non supererà 50
