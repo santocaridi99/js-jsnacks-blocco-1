@@ -1,7 +1,7 @@
-//dichiaro una variabile indice che imposto a 0 voglio che le potenze
+//dichiaro una variabile indice che imposto a 0 .voglio che le potenze
 //vanno da 0 fino a che risultatò sia <= di 1000
 let index=0;
-//una variabile ancora che mi serve per fare la potenza
+//una variabile ''ancora ''che mi serve per fare la potenza
 let a=0;
 //uso do while
 //do
