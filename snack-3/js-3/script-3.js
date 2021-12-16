@@ -1,8 +1,8 @@
 //dichiaro una variabile indice che imposto a 0 .voglio che le potenze
 //vanno da 0 fino a che risultatò sia <= di 1000
-let index=0;
+let index=1;
 //una variabile ''ancora ''che mi serve per fare la potenza
-let a=0;
+let a=1;
 //uso do while
 //do
 //codice da eseguire
